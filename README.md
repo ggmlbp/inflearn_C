@@ -1,2 +1,2 @@
-# inflearn_C
+# inflearn_C++
 inflearn C++ study
